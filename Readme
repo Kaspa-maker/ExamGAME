@@ -1,0 +1,4 @@
+Pac-Man clone game 2 hour exam game creation.
+
+In this exam I had to create a clone of pac-man using simple shapes to recreate the game. The player can move around the map and collect coins to win the game and he is chased
+by a random patroling AI, Ai that activates if the player gets in the line of sight and AI that can hear the players footsteps. If the player gets caught the game is restarded.
